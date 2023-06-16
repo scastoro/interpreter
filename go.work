@@ -5,6 +5,8 @@ use ./token
 use ./lexer
 
 use (
+	.
 	./ast
+	./parser
 	./repl
 )
