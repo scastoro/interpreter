@@ -10,4 +10,5 @@ use (
 	./object
 	./parser
 	./repl
+	./evaluator
 )
