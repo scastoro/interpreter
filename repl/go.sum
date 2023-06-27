@@ -1,0 +1,12 @@
+github.com/scastoro/interpreter/ast v0.0.0-20230626215511-f550434e94a3 h1:AFXlTKNz1kfmrw4wkJPZwOoymEzrQ5/d9eGdWpIIFu8=
+github.com/scastoro/interpreter/ast v0.0.0-20230626215511-f550434e94a3/go.mod h1:gUZaqhPPQxkYedDyANp2KwHbO2kLHkR1MYy4EE/75wE=
+github.com/scastoro/interpreter/evaluator v0.0.0-20230626215511-f550434e94a3 h1:THk2VfBG53UE06WYQ9orkh+3qFYpUeqW2LXUIj5u3l8=
+github.com/scastoro/interpreter/evaluator v0.0.0-20230626215511-f550434e94a3/go.mod h1:SFWQOqN5kj28+aQJmxvvSyz338m023kWsnCbQF/bSNA=
+github.com/scastoro/interpreter/lexer v0.0.0-20230626215511-f550434e94a3 h1:f9NXgBwN3lK4mGST2TQgoe+ZmEGmKRcvA2K2gqniDMo=
+github.com/scastoro/interpreter/lexer v0.0.0-20230626215511-f550434e94a3/go.mod h1:ICeQW1Tm09h9a16ZxIx1LtWxKtbhl1O5Ll1Hy0eUOgw=
+github.com/scastoro/interpreter/object v0.0.0-20230626215511-f550434e94a3 h1:1hJj2UcMsNiXEkWJwS1efa6HfWi49ARSPGq40RH9r04=
+github.com/scastoro/interpreter/object v0.0.0-20230626215511-f550434e94a3/go.mod h1:Bo+u9vN3zvSOtwI53H1vAYHfaZ0bXEb5H6iOheCILE4=
+github.com/scastoro/interpreter/parser v0.0.0-20230626215511-f550434e94a3 h1:LBTksQYVf79x/RpRzsjdNpsmSRnBPqd6zYOiKULchUs=
+github.com/scastoro/interpreter/parser v0.0.0-20230626215511-f550434e94a3/go.mod h1:5TQ2HkaEUZOzppwsT6b5YypZdS2oJy6/WUMUwFJYWic=
+github.com/scastoro/interpreter/token v0.0.0-20230626215511-f550434e94a3 h1:hIY0KfKk1/Au+1JVcNmrBc5Wxons/76HOH7eXvK3pek=
+github.com/scastoro/interpreter/token v0.0.0-20230626215511-f550434e94a3/go.mod h1:us5RXxLDPcNYJ/HboWN3p5URsqL2X0itlua7eziZjNc=
